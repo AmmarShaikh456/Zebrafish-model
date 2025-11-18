@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b2d70a3fea71c5649ac641eaf7aaf7b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cellPrefab: {fileID: 8706375983697834476, guid: f38470d4d7280264e96aaefc75f76af9, type: 3}
+  - zebrafishModel: {fileID: 919132149155446097, guid: e02813c9e8683064fb37d7ae17fe597a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
